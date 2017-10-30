@@ -36,6 +36,14 @@
     margin: 2% auto;
 }
 
+.meat {
+    width: 82%;
+    height: 8%;
+    background: linear-gradient(#7f3608, #702e05);
+    border-radius: 15px;
+    margin: 2% auto;
+}
+
 .bread-bottom {
     height: 13%;
     width: 80%;

@@ -36,7 +36,7 @@
      top: -50%;
      border-radius: 40%;
      transform: rotate(60deg);
-     box-shadow: inset -1px -2px #c9c9c9;
+     box-shadow: inset -1px -3px #c9c9c9;
  }
 
 .seeds:before {
@@ -50,6 +50,18 @@
     border-radius: 40%;
     transform: rotate(60deg);
     box-shadow: inset -1px -2px #c9c9c9;
+}
+
+.seeds2 {
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    background-color: white;
+    left: 64%;
+    top: 50%;
+    border-radius: 40%;
+    transform: rotate(10deg);
+    box-shadow: inset -2px 0 #c9c9c9;
 }
 
 .salad {
